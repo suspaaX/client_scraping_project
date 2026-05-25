@@ -1,0 +1,29 @@
+Summary
+I need contact data extracted form a directory website.
+
+https://recruitment.farmers.com/industry-recruiter-locator/us
+
+First Name
+Last Name
+Company
+Address line 1
+Address line 2
+City
+State
+Zip Code
+Phone
+Email
+URL Address
+Image link
+
+Here is an overview video of the data to be extracted.
+
+https://www.loom.com/share/0e900704d315431e82bf76ee8307a56c
+
+Apply only if you can complete this in the next 2 hours.
+
+$15.00
+
+Fixed-price
+
+https://www.upwork.com/jobs/~021998443122835770124

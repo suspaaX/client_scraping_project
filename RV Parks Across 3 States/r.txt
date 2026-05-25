@@ -1,0 +1,45 @@
+
+
+
+
+
+
+Summary
+Project: Build Complete RV Park Directory Spreadsheets for GA, NC, and SC.
+
+I need a freelancer to scrape and compile three master lists of all RV parks in the above states. The data should come from multiple online directories, be cleaned and deduplicated, and exported into spreadsheets.
+
+Sources: Campendium.com, GoodSam.com, & RVParkStore.com
+
+Fields Required
+- Park Name
+- Site Street Address
+- Site City
+- Site State
+- Site Zip Code
+- Site County
+- Website
+- Number of RV Sites (if available)
+- Source(s) (which directory or directories the entry came from)
+
+Requirements
+- Scrape all listings from the three sources above.
+- Capture all pages of results.
+- Normalize and deduplicate so each park appears only once in the master list.
+- If multiple site counts exist, keep the highest. Leave blank if none are available.
+- Provide outputs in both Excel (.xlsx) and CSV (.csv) formats.
+
+Deliverables 
+- campendium__rv_parks.xlsx / .csv
+- goodsam__rv_parks.xlsx / .csv
+- rvparkstore__rv_parks.xlsx / .csv
+- master__rv_parks.xlsx / .csv (merged + deduped with site counts + source flags)
+
+Skills Needed
+- Web scraping (Python Playwright, Selenium, Scrapy, or similar)
+- Data cleaning and deduplication
+- Fuzzy matching for duplicates
+- Excel/CSV formatting
+
+
+https://www.upwork.com/jobs/~022016629098910900590

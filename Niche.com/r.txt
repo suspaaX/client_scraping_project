@@ -1,0 +1,11 @@
+Summary
+Web Scraper: Private School Data from Niche.com
+- Need a Python scraper to extract private schools from niche.com/k12/search/best-private-schools/
+- filtered to enrollment of  200-300 students (Number of students)
+- Output: Python program + Excel/CSV
+    - include the python program you wrote with instructions for me to run it on my own
+    - use columns: school name, city, state, phone, website, enrollment size
+- Estimated ~3,000-4,000 records. One-time job.
+
+
+https://www.upwork.com/jobs/~022041914888304411666

@@ -1,0 +1,12 @@
+Summary
+I am looking for help to extract all Contacts from the site AuctionZip 
+(see:  https://www.auctionzip.com/Auctioneer-Directory/) from A-Z.  
+Enclosed is a file sample file how I would like to see the data presented.
+
+
+https://www.upwork.com/jobs/~021995544206577585369
+
+
+$35.00
+
+Fixed-price 

@@ -1,0 +1,13 @@
+Summary
+
+We are seeking a skilled data scraper to extract contact information for IVF 
+doctors from specified websites. The goal is to compile a comprehensive database of IVF 
+specialists across the United States. You will be provided with the list of websites to target, 
+and accuracy in data collection is crucial. Familiarity with web scraping tools and techniques is essential. 
+If you have experience in similar projects and can ensure data integrity, we would love to hear from you!
+
+$75.00
+
+Fixed-price
+
+https://www.upwork.com/jobs/~022004299504898688925

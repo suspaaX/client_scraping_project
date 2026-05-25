@@ -1,0 +1,13 @@
+Summary
+Scrape https://www.trainingpeaks.com/coaches/search
+Extract the following information:
+- First name
+- Last name 
+- Profile (e/g trainingpeaks.com/coach/palmares)
+- Email address
+- Website
+
+Skip if there is no email address associated.
+
+
+https://www.upwork.com/jobs/~022016915801193923004

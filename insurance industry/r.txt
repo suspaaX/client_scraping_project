@@ -1,0 +1,7 @@
+Summary
+I need someone to scrape all job postings for common insurance brokerage roles so we can find the organizations that are posting them across the US. 
+
+It should be someone very astute in web scraping and ideally someone who has scraped these types of things in the past.
+
+
+https://www.upwork.com/jobs/~022023914567807220786
